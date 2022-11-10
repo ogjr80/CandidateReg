@@ -1,0 +1,17 @@
+.container { 
+    width: 80%; 
+    margin: 6rem auto; 
+    border: 1px solid #999; 
+    
+    }
+
+ .MuiSvgIcon-root.Mui-active {
+    color: black; 
+}
+.MuiSvgIcon-root.Mui-completed {
+    color: black; 
+}
+
+  h2 { 
+    color : #999
+  }
