@@ -12,7 +12,7 @@ import Education from "./Education";
 import Resume from "./Resume"; 
 import Project from "./Project"; 
 
-import './Reg.css'; 
+import './styles.css'; 
 
 
 const CandidateRegistration = () => {
@@ -72,6 +72,7 @@ const CandidateRegistration = () => {
                 </Button>
                 </>
             )}
+            
         </div>
     )
 }
